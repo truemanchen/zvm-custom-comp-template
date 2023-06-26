@@ -1,0 +1,15 @@
+{
+	"customComponentItems": {
+		"item1": {
+			"name": "component1",
+			"image": "fuck1.jpg",
+			"description": "item1"
+		},
+		"item2": {
+			"name": "component2",
+			"image": "fuck2.jpg",
+			"description": "item2"
+		}
+	},
+	"version": "0.0.2"
+}
