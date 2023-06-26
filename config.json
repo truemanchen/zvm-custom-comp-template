@@ -1,15 +1,10 @@
 {
 	"customComponentItems": {
-		"item1": {
-			"name": "component1",
-			"image": "fuck1.jpg",
+		"HeaderMenu-5ef64ab5": {
+			"name": "HeaderMenu-5ef64ab5",
+			"image": "111.jpg",
 			"description": "item1"
-		},
-		"item2": {
-			"name": "component2",
-			"image": "fuck2.jpg",
-			"description": "item2"
 		}
-	},
+	}
 	"version": "0.0.2"
 }
