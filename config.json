@@ -8,6 +8,10 @@
 				{
 					"fieldName": "123",
 					"type": "TEXT"
+				},
+				{
+					"fieldName": "1234",
+					"type": "FLOAT8"
 				}
 			]
 		}
